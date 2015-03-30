@@ -3,8 +3,7 @@
   "description": "A clock-style timepicker for Bootstrap (or jQuery)",
   "version": "0.0.7",
   "main": [
-    "dist/jquery-clockpicker.js",
-    "dist/jquery-clockpicker.css"
+    "dist/jquery-clockpicker.js"
   ],
   "license": "MIT",
   "ignore": [
